@@ -21,7 +21,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border-radius: 0.12rem;
+    border-radius: 0.16rem;
     border: 1px solid lightgray;
 }
 .searchl {
@@ -41,14 +41,14 @@
 .searchri {
     width: 2.5rem;
     height: 0.45rem;
-    font-size: 12px;
+    font-size: 0.14rem;
     line-height: 0.45rem;
     outline: none;
 }
 .right {
     width: 1.15rem;
     height: 0.65rem;
-    font-size: 0.12rem;
+    font-size: 0.14rem;
     text-align: center;
     line-height: 0.65rem;
 }
