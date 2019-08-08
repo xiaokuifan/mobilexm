@@ -1,0 +1,12 @@
+.botnav {
+    width: 6.4rem;
+    height: 2.56rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.buto {
+    width: 1.8rem;
+    height: 1.8rem;
+    font-size: 0.8rem;
+}
